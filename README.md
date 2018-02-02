@@ -12,5 +12,5 @@ jurboLinks({
 
 ## Arguments:
 config: 
-  navigationLinks: a selector pointing to our main menu
-  mainContent: The area to swap out when we have new data (must exist on all subpages)
+  - navigationLinks: a selector pointing to our main menu
+  - mainContent: The area to swap out when we have new data (must exist on all subpages)
